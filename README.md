@@ -49,4 +49,4 @@ Now, you can use this public URL in your frontend or mobile app to interact with
 Watch this video tutorial for a hands-on guide: [Watch here](https://lnkd.in/dU9HxJkn)
 
 ## 📢 Join the Discussion
-Have you ever used ngrok or a similar tool in your workflow? Let's discuss in the comments! 👇🔥
+Have you ever used ngrok or a similar tool in your workflow? Let's discuss in the comments of linkedIn post ! 🔥
